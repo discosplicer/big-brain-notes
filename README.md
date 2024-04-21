@@ -1,6 +1,7 @@
 # big-brain-notes
 
-An Electron application with React and TypeScript
+An Electron application with React and TypeScript. Uses [this tutorial](https://www.youtube.com/watch?v=t8ane4BDyC8)
+to teach myself app creation.
 
 ## Recommended IDE Setup
 
